@@ -34,6 +34,7 @@ h2 {
 }
 
 .nav1 a {
+    /* to remove all the underline from the text we used text-decoration: ;. */
   text-decoration: none;
   color: #202020;
   padding: 5px 15px;
@@ -57,7 +58,7 @@ h2 {
 }
 
 .nav1 .login-btn {
-  background-color: #254bf6;
+  background-color: #0936fd;
   color: #fff;
   border: none;
   padding: 5px 15px;
